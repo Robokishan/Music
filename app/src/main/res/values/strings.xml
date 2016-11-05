@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Music</string>
+    <string name="action_settings">Settings</string>
+    <color name="white">#FFFFFF</color>
+</resources>

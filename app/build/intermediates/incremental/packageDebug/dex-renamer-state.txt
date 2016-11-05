@@ -1,0 +1,7 @@
+#Sat Nov 05 19:57:04 IST 2016
+base.0=/home/kishan/android/Android-projects/Music/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b21d5376f4298ce09bb8fa971710ed5be8c5d1ee
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/kishan/android/Android-projects/Music/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a082bd5316dbf7bbe353bfc469858eb4ae84da57/classes.dex
+base.1=/home/kishan/android/Android-projects/Music/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a082bd5316dbf7bbe353bfc469858eb4ae84da57
+file.0=/home/kishan/android/Android-projects/Music/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b21d5376f4298ce09bb8fa971710ed5be8c5d1ee/classes.dex

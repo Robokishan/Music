@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/kishan/android/Android-projects/Music/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="36ec157d69f88c40d34bd1de0437b58faa848c28">
+        <dex dex="/home/kishan/android/Android-projects/Music/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b21d5376f4298ce09bb8fa971710ed5be8c5d1ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kishan/android/Android-projects/Music/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e096a5d8343cc9c5a9f6eded36bd0f4c82f8c83e">
+        <dex dex="/home/kishan/android/Android-projects/Music/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.0_99730c877f45ca6606e6716fad48170a2e33cfe4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kishan/android/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/24.1.0/support-annotations-24.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="/home/kishan/android/Android-projects/Music/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.0_688c75b5651b7d95751b88356572fbe6e04960b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kishan/android/Android-projects/Music/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.0/jars/libs/internal_impl-24.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8c7087216946c546f85a1242a2794c0f271e092c">
+        <dex dex="/home/kishan/android/Android-projects/Music/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.0_7388fa0e934237e929d16031cba6f657e523de81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kishan/android/Android-projects/Music/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ba8e8860f7e033c3a503b682337a4bafdf56e6ee">
+        <dex dex="/home/kishan/android/Android-projects/Music/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.0_60f2958cdc96897125ab756bbc681cf65263c910/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kishan/android/Android-projects/Music/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/kishan/android/Android-projects/Music/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_cf0bc6e460c75e8fb8e1072957cca59b40f24462/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kishan/android/Android-projects/Music/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9340c4f95a4e3916c9ad70296e24576743743712">
+        <dex dex="/home/kishan/android/Android-projects/Music/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.0_f1b54e4e7d968adac838dfb9251683baafba202c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kishan/android/Android-projects/Music/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/kishan/android/Android-projects/Music/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_e110d28da001273558b117ee094ee578e1ae2aef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kishan/android/Android-projects/Music/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8c854b30eca6c442fe842e66cd3b58c5dd08996f">
+        <dex dex="/home/kishan/android/Android-projects/Music/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.0_b7a1bff797f7e9a979c7b13484787bfde3731cba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kishan/android/Android-projects/Music/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="05ffeea926502c92fc022e98ed38985a4977fc5a">
+        <dex dex="/home/kishan/android/Android-projects/Music/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a082bd5316dbf7bbe353bfc469858eb4ae84da57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kishan/android/Android-projects/Music/app/build/intermediates/exploded-aar/com.android.support/design/24.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8620c018c108eed501bbdb85324b79136373ea44">
+        <dex dex="/home/kishan/android/Android-projects/Music/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.1.0_cb0c16be638c10ec8dd1fb52f211b0af9d57dffb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kishan/android/Android-projects/Music/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4157816e81f0820983957687e9a6f4c1cea0f1e5">
+        <dex dex="/home/kishan/android/Android-projects/Music/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.1.0_dae957512e17e90f56d7f2f57aab90ed46260c0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kishan/android/Android-projects/Music/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/home/kishan/android/Android-projects/Music/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_7720df4cc99d0ab437ef964d027009e8d61bb59a/classes.dex" />
+    </item>
+
+</items>
